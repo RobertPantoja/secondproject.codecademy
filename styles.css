@@ -1,0 +1,154 @@
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  background-color: #e8eddf;
+}
+
+header {
+  margin: 30px;
+  color: #202020;
+}
+
+header h3 {
+  color: #708599;
+}
+
+.box {
+  border: 2px solid #333533;
+  margin: 25px;
+  padding: 25px;
+}
+
+.boxname {
+  color: #333533;
+  margin: 10px;
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+
+.colorbox {
+  height: 100px;
+  width: 175px;
+  display: inline-block;
+  padding: 10px;
+  margin: 20px 10px;
+}
+
+.colortext {
+  line-height: 50px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: light;
+  padding: auto;
+  text-transform: capitalize;
+}
+
+.colornumber {
+  text-transform: uppercase;
+}
+
+.colordescription {
+  color: #333533;
+  width: 175px;
+  text-align: center;
+}
+
+#blue {
+  color: aliceblue;
+  background-color: #0081a7;
+}
+
+#green {
+  color: aliceblue;
+  background-color: #00afb9;
+}
+
+#yellow {
+  color: #293241;
+  background-color: #fdfcdc;
+}
+
+#orange {
+  color: #293241;
+  background-color: #fed9b7;
+}
+
+#red {
+  color: aliceblue;
+  background-color: #f07167;
+}
+
+.fontname {
+  width: 300px;
+  display: inline-block;
+  padding: 0 10px;
+  margin: 0 10px;
+  vertical-align: middle;
+}
+
+.fontname h4 {
+  text-decoration: underline;
+  font-size: larger;
+}
+
+#comfortaa {
+  font-family: comfortaa;
+  margin-bottom: 30px;
+}
+
+#dosis {
+  font-family: dosis;
+  font-size: larger;
+}
+
+#raleway {
+  font-family: raleway;
+  margin-bottom: 30px;
+}
+
+.light {
+  font-weight: 300;
+  line-height: 175%;
+  margin: 10px 0;
+}
+
+.medium {
+  font-weight: 500;
+  line-height: 175%;
+  margin: 10px 0;
+}
+
+.bold {
+  font-weight: 700;
+  line-height: 175%;
+  margin: 10px 0;
+}
+
+.stylename {
+  margin: 0 25px;
+  padding-top: 20px;
+}
+
+.stylelist {
+  margin: 10px 30px;
+  line-height: 150%;
+  padding: 10px;
+  font-family: Raleway;
+}
+
+#main {
+  font-family: Comfortaa;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+#sub {
+  font-family: Dosis;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+#paragraph {
+  font-family: Raleway;
+  font-size: 15px;
+  font-weight: 300;
+}
